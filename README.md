@@ -1,2 +1,2 @@
-# big-data-practice
+# Big Data Practice
 Introduce to Big Data with Hadoop
