@@ -1,0 +1,8 @@
+101,vivegam,2017,action,3
+102,conjuring,2016,horror,5
+103,jilla,2015,action,4
+104,hungama,2017,comedy,2
+105,harrypotter,2017,fantasy,5
+106,criminal,2010,crime,3
+107,tangled,2012,fantasy,4
+108,puli,2015,fantasy,3 
